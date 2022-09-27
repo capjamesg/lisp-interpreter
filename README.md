@@ -13,7 +13,7 @@ python3 lisp.py --repl
 This command will open up a prompt into which you can type Lisp commands:
 
 ```
-(+ 1 2 3)
+* (+ 1 2 3)
 ```
 
 ## Running the test cases
