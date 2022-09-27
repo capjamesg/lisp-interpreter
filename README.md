@@ -10,13 +10,17 @@ To open a Lisp REPL, use this command:
  
 This command will open up a prompt into which you can type Lisp commands:
 
-  * (+ 1 2 3)
-  
+```
+(+ 1 2 3)
+```
+
 ## Running the test cases
 
 To run the unit tests associated with this project, use the following command:
 
-  python3 tests.py
+```
+python3 tests.py
+```
 
 ## Functions Implemented
 
