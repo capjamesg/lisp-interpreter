@@ -6,8 +6,10 @@ A Lisp interpreter written in Python.
 
 To open a Lisp REPL, use this command:
 
-  python# lisp.py --repl
- 
+```
+python3 lisp.py --repl
+```
+
 This command will open up a prompt into which you can type Lisp commands:
 
 ```
